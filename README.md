@@ -10,7 +10,7 @@ Tap to start game !
 <h3>Game Rules:</h3>
 <br>
 <img src="/flappy_game.png" style="width: 200px;"></img>
-<img src="/game.png" style="width: 200px;"></img>
+<img src="/game_7.png" style="width: 200px;"></img>
 1.Goal is to score as much as posiible.
 <br>
 2.Tap or press on upper button to make bird move up else it will be falling towards ground.
