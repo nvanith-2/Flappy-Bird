@@ -9,7 +9,8 @@ Tap to start game !
 <br>
 <h3>Game Rules:</h3>
 <br>
-<img src="/game.png"></img>
+<img src="/flappy_game.png" style="width: 200px;"></img>
+<img src="/game.png" style="width: 200px;"></img>
 1.Goal is to score as much as posiible.
 <br>
 2.Tap or press on upper button to make bird move up else it will be falling towards ground.
@@ -19,5 +20,4 @@ Tap to start game !
 4.If the bird hits the ground,pillars or top game ends.
 <br>
 <h3>Technology:</h3>
-<br>
-This is code in python using pygame library.
+Python,Pygame library.
